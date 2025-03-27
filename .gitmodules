@@ -1,0 +1,3 @@
+[submodule "javascript/javascript/cypress-do-zero-a-nuvem"]
+	path = javascript/javascript/cypress-do-zero-a-nuvem
+	url = git@github.com:GuilhermeBuenoMartins/cypress-do-zero-a-nuvem.git
